@@ -6,4 +6,4 @@
 <strong>SEKIAN TERIMAKASIH</strong><br>
 <hr />
 # Preview Script Deface
-<img src="https://i.ibb.co/DwSFFBq/Screenshot-2022-10-16-21-24-07.png" width="100" height="100" type="image/png" />
+<img src="https://i.ibb.co/DwSFFBq/Screenshot-2022-10-16-21-24-07.png" type="image/png" />
